@@ -1,0 +1,7 @@
+-
+    title: "Hebrew Vocabulary"
+    description: "Shown the hebrew word, pick its english equivalent"
+    file: "vocab.csv"
+    front: "Hebrew"
+    back: "English"
+
